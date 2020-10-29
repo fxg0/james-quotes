@@ -9,3 +9,14 @@ html {
   -o-background-size: cover;
   background-size: cover;
 }
+
+#abc {
+	color: black;
+	text-decoration: none;
+}
+
+#abc:hover {
+	color: black;
+	text-decoration: none;
+}
+
